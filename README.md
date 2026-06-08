@@ -27,8 +27,9 @@ Pastikan device anda sudah menginstal Python. Berikut adalah langkah-langkah unt
 pip install pycryptodome
 
 ```
-5. Setelah instalasi berhasil, tekan tombol **F5** atau **CTRL+F5** untuk menjalankan program.
-6. Antarmuka program akan langsung beroperasi di terminal dan siap digunakan.
+5. Setelah instalasi berhasil, tekan tombol **F5** atau **CTRL+F5** untuk menjalankan program pada terminal anda.
+6. Program akan langsung beroperasi di terminal dan siap digunakan.
+7. Selesai.
 
 # Contoh Penggunaan Singkat
 Berikut adalah skenario dasar jika anda ingin mengenkripsi dan menyembunyikan pesan rahasia ke dalam sebuah gambar:
