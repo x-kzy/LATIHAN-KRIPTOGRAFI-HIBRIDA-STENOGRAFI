@@ -64,3 +64,4 @@ Pesan berhasil disembunyikan!
 ```
 
 *(Untuk membaca dan mengekstrak kembali pesan tersebut, Anda cukup menggunakan **Menu 9** dan memasukkan nama file gambar yang telah diproses).*
+Untuk hasil lebih lanjut disarankan melakukan percobaan secara mandiri dan bisa menonton video yang telah saya buat terkait pembahasan programnya.
